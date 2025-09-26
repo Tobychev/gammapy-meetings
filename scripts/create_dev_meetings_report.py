@@ -37,12 +37,11 @@ report_heading = f' * {today_long}, at 2 pm (CET) \n ' \
     'Attendees: \n\n' \
     '# Agenda\n' \
     '## General information\n\n' \
-    '## Open issues\n\n' \
-    '## Bugs\n\n' \
-    '## Documentation\n\n' \
-    '## DevOps\n\n' \
-    '## Validation & benchmark\n\n' \
-    '## Ongoing projects\n\n' \
+    '## Projects\n\n' \
+    '### [BugTracker](https://github.com/orgs/gammapy/projects/36/views/1)\n\n' \
+    '### [Devops](https://github.com/orgs/gammapy/projects/31)\n\n' \
+    '### [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)\n\n' \
+    '### Validation & benchmark\n\n' \
     '## Any other business\n\n' \
     '# Automatic activity report\n'
 
